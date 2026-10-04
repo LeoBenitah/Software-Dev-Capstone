@@ -1,0 +1,348 @@
+{
+  "TotalCommits": 1205,
+  "UniqueCommitContributors": 105,
+  "CommitsPerMonth": [
+    {
+      "Year": 2025,
+      "Month": 10,
+      "Count": 124
+    },
+    {
+      "Year": 2025,
+      "Month": 11,
+      "Count": 107
+    },
+    {
+      "Year": 2025,
+      "Month": 12,
+      "Count": 76
+    },
+    {
+      "Year": 2026,
+      "Month": 1,
+      "Count": 108
+    },
+    {
+      "Year": 2026,
+      "Month": 2,
+      "Count": 107
+    },
+    {
+      "Year": 2026,
+      "Month": 3,
+      "Count": 123
+    },
+    {
+      "Year": 2026,
+      "Month": 4,
+      "Count": 112
+    },
+    {
+      "Year": 2026,
+      "Month": 5,
+      "Count": 48
+    },
+    {
+      "Year": 2026,
+      "Month": 6,
+      "Count": 97
+    },
+    {
+      "Year": 2026,
+      "Month": 7,
+      "Count": 90
+    },
+    {
+      "Year": 2026,
+      "Month": 8,
+      "Count": 105
+    },
+    {
+      "Year": 2026,
+      "Month": 9,
+      "Count": 103
+    },
+    {
+      "Year": 2026,
+      "Month": 10,
+      "Count": 5
+    }
+  ],
+  "TotalPullRequests": 3103,
+  "MergedPullRequests": 1082,
+  "ClosedUnmergedPullRequests": 632,
+  "OpenPullRequests": 1389,
+  "UniquePullRequestContributors": 1096,
+  "PullRequestsPerMonth": [
+    {
+      "Year": 2025,
+      "Month": 10,
+      "Count": 159
+    },
+    {
+      "Year": 2025,
+      "Month": 11,
+      "Count": 152
+    },
+    {
+      "Year": 2025,
+      "Month": 12,
+      "Count": 135
+    },
+    {
+      "Year": 2026,
+      "Month": 1,
+      "Count": 183
+    },
+    {
+      "Year": 2026,
+      "Month": 2,
+      "Count": 241
+    },
+    {
+      "Year": 2026,
+      "Month": 3,
+      "Count": 353
+    },
+    {
+      "Year": 2026,
+      "Month": 4,
+      "Count": 292
+    },
+    {
+      "Year": 2026,
+      "Month": 5,
+      "Count": 191
+    },
+    {
+      "Year": 2026,
+      "Month": 6,
+      "Count": 307
+    },
+    {
+      "Year": 2026,
+      "Month": 7,
+      "Count": 314
+    },
+    {
+      "Year": 2026,
+      "Month": 8,
+      "Count": 391
+    },
+    {
+      "Year": 2026,
+      "Month": 9,
+      "Count": 355
+    },
+    {
+      "Year": 2026,
+      "Month": 10,
+      "Count": 30
+    }
+  ],
+  "TotalIssues": 3052,
+  "ClosedIssues": 1908,
+  "OpenIssues": 1144,
+  "UniqueIssueContributors": 2347,
+  "IssuesPerMonth": [
+    {
+      "Year": 2025,
+      "Month": 10,
+      "Count": 252
+    },
+    {
+      "Year": 2025,
+      "Month": 11,
+      "Count": 229
+    },
+    {
+      "Year": 2025,
+      "Month": 12,
+      "Count": 175
+    },
+    {
+      "Year": 2026,
+      "Month": 1,
+      "Count": 203
+    },
+    {
+      "Year": 2026,
+      "Month": 2,
+      "Count": 266
+    },
+    {
+      "Year": 2026,
+      "Month": 3,
+      "Count": 304
+    },
+    {
+      "Year": 2026,
+      "Month": 4,
+      "Count": 412
+    },
+    {
+      "Year": 2026,
+      "Month": 5,
+      "Count": 250
+    },
+    {
+      "Year": 2026,
+      "Month": 6,
+      "Count": 287
+    },
+    {
+      "Year": 2026,
+      "Month": 7,
+      "Count": 195
+    },
+    {
+      "Year": 2026,
+      "Month": 8,
+      "Count": 266
+    },
+    {
+      "Year": 2026,
+      "Month": 9,
+      "Count": 202
+    },
+    {
+      "Year": 2026,
+      "Month": 10,
+      "Count": 11
+    }
+  ],
+  "TotalComments": 16634,
+  "UniqueCommentContributors": 5030,
+  "CommentsPerMonth": [
+    {
+      "Year": 2025,
+      "Month": 10,
+      "Count": 1615
+    },
+    {
+      "Year": 2025,
+      "Month": 11,
+      "Count": 1502
+    },
+    {
+      "Year": 2025,
+      "Month": 12,
+      "Count": 1039
+    },
+    {
+      "Year": 2026,
+      "Month": 1,
+      "Count": 1116
+    },
+    {
+      "Year": 2026,
+      "Month": 2,
+      "Count": 1494
+    },
+    {
+      "Year": 2026,
+      "Month": 3,
+      "Count": 1630
+    },
+    {
+      "Year": 2026,
+      "Month": 4,
+      "Count": 2111
+    },
+    {
+      "Year": 2026,
+      "Month": 5,
+      "Count": 1528
+    },
+    {
+      "Year": 2026,
+      "Month": 6,
+      "Count": 1516
+    },
+    {
+      "Year": 2026,
+      "Month": 7,
+      "Count": 1096
+    },
+    {
+      "Year": 2026,
+      "Month": 8,
+      "Count": 1120
+    },
+    {
+      "Year": 2026,
+      "Month": 9,
+      "Count": 814
+    },
+    {
+      "Year": 2026,
+      "Month": 10,
+      "Count": 53
+    }
+  ],
+  "TotalReviews": 2599,
+  "UniqueReviewContributors": 126,
+  "PullRequestsWithReview": 1296,
+  "ReviewsPerMonth": [
+    {
+      "Year": 2025,
+      "Month": 10,
+      "Count": 262
+    },
+    {
+      "Year": 2025,
+      "Month": 11,
+      "Count": 288
+    },
+    {
+      "Year": 2025,
+      "Month": 12,
+      "Count": 253
+    },
+    {
+      "Year": 2026,
+      "Month": 1,
+      "Count": 196
+    },
+    {
+      "Year": 2026,
+      "Month": 2,
+      "Count": 169
+    },
+    {
+      "Year": 2026,
+      "Month": 3,
+      "Count": 296
+    },
+    {
+      "Year": 2026,
+      "Month": 4,
+      "Count": 224
+    },
+    {
+      "Year": 2026,
+      "Month": 5,
+      "Count": 116
+    },
+    {
+      "Year": 2026,
+      "Month": 6,
+      "Count": 263
+    },
+    {
+      "Year": 2026,
+      "Month": 7,
+      "Count": 232
+    },
+    {
+      "Year": 2026,
+      "Month": 8,
+      "Count": 190
+    },
+    {
+      "Year": 2026,
+      "Month": 9,
+      "Count": 110
+    }
+  ]
+}

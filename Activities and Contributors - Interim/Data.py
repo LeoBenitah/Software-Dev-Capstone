@@ -1,7 +1,9 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-
+"""
+ACTIVITIES ANALYSIS
+"""
 # Read the JSON files downloaded previously
 commits = pd.read_json("commits.json")
 issues = pd.read_json("issues.json")
@@ -40,7 +42,7 @@ months = pd.date_range(
 activities = activities.reindex(months, fill_value=0)
 
 # Print the dataframe to ensure it looks correct
-# print(activities)
+print(activities)
 
 # Plot the dataframe
 activities.plot(marker="o")
@@ -57,8 +59,11 @@ plt.xticks(
 
 plt.tight_layout()
 plt.savefig("ollama_activities.png", dpi=300)
-# plt.show()
+plt.show()
 
+"""
+CONTRIBUTORS ANALYSIS
+"""
 # Count commits issues and pull requests by each contributor
 commit_counts = commits["Contributor"].value_counts()
 issue_counts = issues["Contributor"].value_counts()

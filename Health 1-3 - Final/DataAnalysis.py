@@ -454,3 +454,16 @@ print(
         ["Username", "Names", "Emails"]
     ].to_string(index=False)
 )
+
+keywords = [
+    "team", "support", "admin", "dev", "ops", "infra",
+    "release", "build", "service", "maintainer", "engineering"
+]
+
+functional_candidates = contributors[
+    contributors["Username"].str.lower().apply(
+        lambda username: any(k in username for k in keywords)
+    )
+]
+
+print(functional_candidates["Username"].to_string(index=False))
